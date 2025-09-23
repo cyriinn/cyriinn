@@ -25,7 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c.carinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Carina Yoehadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carinayoehadii@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c.carinn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CarinaYoehadi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carinayoehadii@gmail.com) 
 
 # 💫 About Me:
 🌱 I’m currently learning ...
