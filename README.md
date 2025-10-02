@@ -10,6 +10,6 @@
 
 # 💫 About Me:
 🌱 I’m currently learning PHP <br>
-👯 I’m looking forward to contribute as cyber security intern
+👯 I’m looking forward to contribute as Cybersecurity Intern
 
 
